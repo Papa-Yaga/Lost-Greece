@@ -1,4 +1,4 @@
-# SoloProject
+# Lost Greece
 
 Decyphering old Greek on lost Papyrus!
 - a Project by Sergej N.
